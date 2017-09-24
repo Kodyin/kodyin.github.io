@@ -1,0 +1,4 @@
+graph {
+	fill-color: red;
+}
+
